@@ -1,4 +1,4 @@
-# [WEBSITE](https://silly-galileo-7d9ef9.netlify.app)
+# [PORTFOLIO-WEBSITE](https://silly-galileo-7d9ef9.netlify.app)
 
 The website is developed in Jquery, HTML and CSS. It is a light-weight application, deployed for portfolio implementation.
 
