@@ -25,3 +25,7 @@ Provides a list of projects completed by the author. It is displayed in a tabula
 
 Provides a contact-form allowing people an easier method of communication.
 
+## Contributing:
+
+When contributing to this repository, please first discuss the change you wish to make via issue,
+email, or any other method with the owners of this repository before making a change.
